@@ -1,1 +1,6 @@
+#EXTM3U 
 
+#EXTINF:-1,TEST 
+http://ekdilhai.pro/DB_DBCNEWS/index.m3u8?token=d89caac69275e4ca0dcfad9498a0eae0
+#EXTINF:-1,Asian
+http://ekdilhai.pro/BD_ASIANTV/index.m3u8?token=031df55c913c5f34f8a3738c82f7b5ba
